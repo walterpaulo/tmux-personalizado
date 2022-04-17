@@ -5,5 +5,7 @@
 ```
 git clone https://github.com/walterpaulo/tmux-personalizado.git
 cd tmux-personalizado
-sudo ./install.sh
+./install.sh
 ```
+
+[![Barra de status](./images/barra-status.png)](./README.md)
