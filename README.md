@@ -5,5 +5,5 @@
 ```
 git clone https://github.com/walterpaulo/tmux-personalizado.git
 cd tmux-personalizado
-./install
+sudo ./install
 ```
