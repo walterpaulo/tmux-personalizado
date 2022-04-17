@@ -1,4 +1,4 @@
-## Personalizar o Shell com Tmux
+## Personalizar o Shell/Bash com Tmux
 
 * tmux
 
