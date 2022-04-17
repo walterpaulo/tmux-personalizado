@@ -1,6 +1,7 @@
 ## Personalizar o Shell/Bash com Tmux
 
-* tmux
+* tmux;
+* Debian e derivados;
 
 ```
 git clone https://github.com/walterpaulo/tmux-personalizado.git
@@ -14,6 +15,8 @@ cd tmux-personalizado
 tmux
 ```
 Pronto!
+
+[![tmux-personalizado comandos](./images/tmux-personalizado.png)](./README.md)
 
 
 ### Material de apoio
