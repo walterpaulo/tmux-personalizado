@@ -14,7 +14,7 @@ cd tmux-personalizado
 ```
 tmux
 ```
-Pronto!
+Pronto! Deu tudo certo, aproveite o tutorial que fiz para você iniciar. Bons estudos! 😃 👍
 
 [![tmux-personalizado comandos](./images/tmux-personalizado.png)](./README.md)
 
@@ -23,3 +23,4 @@ Pronto!
 
 * Thewtex -> [https://github.com/thewtex/tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load)
 * Tony -> [https://github.com/tony/tmux-config](https://github.com/tony/tmux-config)
+* Documentação oficial -> [https://github.com/tmux/tmux/wiki](https://github.com/tmux/tmux/wiki)
