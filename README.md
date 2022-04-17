@@ -8,4 +8,4 @@ cd tmux-personalizado
 ./install.sh
 ```
 
-[![Barra de status](./images/barra-status.png)](./README.md)
+[![Barra de status](./images/barra-status.png)](https://youtu.be/1GJq5QJzjuM)
