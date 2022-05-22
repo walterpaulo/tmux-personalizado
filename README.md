@@ -18,6 +18,14 @@ Pronto! Deu tudo certo, aproveite o tutorial que fiz para você iniciar. Bons es
 
 [![tmux-personalizado comandos](./images/tmux-personalizado.png)](./README.md)
 
+### Comandos
+
+*Ver horas*
+>  \<prefix> + t
+
+
+#### Definição 
+prefix = ctrl + a 
 
 ### Material de apoio
 
